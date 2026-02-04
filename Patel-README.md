@@ -1,0 +1,1 @@
+Hi, my name is Het Patel. I am currently a senior at UALR. I'm interested in learning more about github and how it connects to modern software development. At the moment i plan on learning python as a side quest while also enjoying a bit of gaming here snd there during my free time. Hope to get along with everyone in the course and getting through with the course.
